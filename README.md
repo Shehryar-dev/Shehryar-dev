@@ -1,6 +1,6 @@
-![logo](https://github.com/Shehryar-dev/Shehryar-dev/blob/main/2.png)
+![logo](https://github.com/Shehryar-dev/Shehryar-dev/blob/main/5.png)
 # 💫 About Me:
-👋 Hi, I’m Shehriyar Saleem (@Shehryar-dev)<br>👀 I’m interested in web development and exploring new technologies.<br>🌱 I’m currently learning ASP.NET Core MVC and working on projects to enhance my skills.<br>💞️ I’m looking to collaborate on web development projects and contribute to open-source initiatives.<br>📫 How to reach me: +92 312 023 5172 <br>⚡ Fun fact: I love to experiment with different programming languages and frameworks in my free time!
+👋 Hi, I’m Shehryar Saleem (@Shehryar-dev)<br>👀 Passionate about web development and discovering new technologies.<br>🌱 Currently mastering Flutter, Dart, and ASP.NET Core MVC with hands-on projects to sharpen my skills.<br>💡  Open to collaborating on innovative projects and contributing to open-source communities.<br>📫 Reach me at: +92 312 023 5172 <br>⚡ Fun fact: I enjoy experimenting with different programming languages and building unique projects in my free time!
 
 
 ## 🌐 Socials:
