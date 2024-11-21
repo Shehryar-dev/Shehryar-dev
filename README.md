@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=Shehryar-dev&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Shehryar-dev/Shehryar-dev/blob/output/github-snake.svg)
