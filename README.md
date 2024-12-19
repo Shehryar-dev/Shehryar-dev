@@ -41,5 +41,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-## 🎥 Watch my contribution graph get eaten by the snake 🐍
+## 🎥 Watch my contribution graph vanish, just like people devour my happiness 🐍
 ![snake gif](https://github.com/Shehryar-dev/Shehryar-dev/blob/output/github-snake.svg)
