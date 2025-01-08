@@ -38,6 +38,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=Shehryar-dev&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in) <br/>
 
+![Profile views](https://komarev.com/ghpvc/?username=Shehryar-dev&color=lightgrey)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
