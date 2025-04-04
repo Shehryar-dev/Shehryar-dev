@@ -1,17 +1,27 @@
 ![logo](https://github.com/Shehryar-dev/Shehryar-dev/blob/main/5.png)
-# 💫 About Me:
+## 💫 About Me:
 
-<div>
-  <div>
-    👋 Hi, I’m Shehryar Saleem (@Shehryar-dev) <br>
-    👀 Passionate about web development and discovering new technologies. <br>
-    🌱 Currently mastering Flutter, Dart, and ASP.NET Core MVC with hands-on projects to sharpen my skills. <br>
-    💡 Open to collaborating on innovative projects and contributing to open-source communities. <br>
-    📫 Reach me at: +92 312 023 5172 <br>
-    ⚡ Fun fact: I enjoy experimenting with different programming languages and building unique projects in my free time!
-  </div>
-</div>
+👋 Hi, I’m **Shehryar Saleem** [@Shehryar-dev]  
+🎓 5th Semester Software Engineering Student at **Aptech Institute, Karachi**  
+🧠 Self-taught developer with a passion for **learning, building, and problem-solving**  
 
+🚀 Currently focused on:  
+- Mastering **Flutter & Dart** (State Management, REST APIs, UI/UX)  
+- Exploring **ASP.NET Core MVC** with real-world projects  
+- Strengthening **React** & MERN Stack skills step by step  
+- Practicing **English speaking** & logical thinking daily  
+
+🤝 Open to:  
+- **Flutter job opportunities**  
+- **Collaborating** on real-world or open-source projects  
+- **Freelance** or internship roles in web/mobile development  
+
+📫 Let's connect:  
+- **Phone/WhatsApp**: +92 312 023 5172  
+- **Portfolio**: [shehriyar-portfolio-v2.netlify.app](https://shehriyar-portfolio-v2.netlify.app)  
+- **LinkedIn**: [linkedin.com/in/shehryarkhandiv](https://www.linkedin.com/in/shehryarkhandiv)
+
+⚡ Fun Fact: I love pushing my limits by exploring new tech and building unique apps that challenge my thinking!
 
 
 ## 🌐 Socials:
