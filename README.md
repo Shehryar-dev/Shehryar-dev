@@ -6,10 +6,10 @@
 🧠 Self-taught developer with a passion for **learning, building, and problem-solving**  
 
 🚀 Currently focused on:  
-- Mastering **Flutter & Dart** (State Management, REST APIs, UI/UX)  
-- Exploring **ASP.NET Core MVC** with real-world projects  
-- Strengthening **React** & MERN Stack skills step by step  
-- Practicing **English speaking** & logical thinking daily  
+- Advancing in **Flutter & Dart** with daily learning of new concepts and monthly project development  
+- Learning and practicing **MERN Stack** (MongoDB ✅ 60% → next: Node.js + React)  
+- Strengthening **English communication** with daily speaking practice  
+- Enhancing **problem-solving & logical thinking** through programming challenges
 
 🤝 Open to:  
 - **Flutter job opportunities**  
